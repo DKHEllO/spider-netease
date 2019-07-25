@@ -1,0 +1,13 @@
+selenium
+aiohttp
+aiodns
+cchardet
+lxml
+beautifulsoup4
+pyquery
+tesserocr
+pillow
+pymysql
+pymongo
+requests
+json
